@@ -1,2 +1,2 @@
-# Small-Data-Analytics-project
-data analysis based on Diwali sales
+# CareerChange-Data-Analytics-project
+data analysis based on Career Change Oppurtunities
